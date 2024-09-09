@@ -1,6 +1,8 @@
 #pragma once
 #include <Arduino.h>
 
+//You can add arguments and values by yourself if you need
+
 class Joystick {
     private:
         const uint8_t _pin_Joystick_X;
